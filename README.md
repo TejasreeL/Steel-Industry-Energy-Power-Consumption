@@ -17,6 +17,12 @@ The dashboard provides a comprehensive overview of the energy consumption patter
 
 ![Dashboard Image](https://github.com/TejasreeL/Steel-Industry-Energy-Power-Consumption/blob/main/images/dashboard.jpg)
 
+### Purpose:
+This dashboard allows stakeholders to:
+- Identify high-demand periods and load types.
+- Analyze temporal energy consumption patterns.
+- Gain insights into reactive power usage and its contribution to total consumption.
+
 > ### CHARTS
 
 ### Peak Usage Hours of the Day
